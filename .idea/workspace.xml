@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="55fec4f6-b753-4ef0-a695-8496d6ce53bf" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/database/saveOrphanage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/database/test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/orphanage.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/orphanages.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/page-orphanage.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/page-orphanage.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/scripts/page-orphanage.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/scripts/page-orphanage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/scripts/page-orphanages.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/scripts/page-orphanages.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1iqPnk63seKML5ebW0QbrcwOKmd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Oniva\Aplicações\RocketSeat\src" />
+      <recent name="C:\Users\Oniva\Aplicações\RocketSeat\src\views" />
+      <recent name="C:\Users\Oniva\Aplicações\RocketSeat\public" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Oniva\Aplicações\RocketSeat" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="55fec4f6-b753-4ef0-a695-8496d6ce53bf" name="Default Changelist" comment="" />
+      <created>1602632317303</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602632317303</updated>
+      <workItem from="1602632318366" duration="7614000" />
+      <workItem from="1602716905757" duration="11009000" />
+      <workItem from="1602802147133" duration="9372000" />
+      <workItem from="1602888291946" duration="20341000" />
+      <workItem from="1602959674115" duration="298000" />
+      <workItem from="1602960357158" duration="9625000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="59" y="200" key="#SQL_Dialects" timestamp="1602959050102">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="59" y="200" key="#SQL_Dialects/0.0.1366.728/1366.0.1600.860@0.0.1366.728" timestamp="1602959050102" />
+    <state x="275" y="22" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602959150096">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="22" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728/1366.0.1600.860@0.0.1366.728" timestamp="1602959150096" />
+    <state x="424" y="162" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602943440578">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="424" y="162" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728/1366.0.1600.860@0.0.1366.728" timestamp="1602943440578" />
+  </component>
+</project>
